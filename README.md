@@ -32,7 +32,9 @@ inventory.py can access these entries, edit them and create new entries in order
 
 ### Menu
 The main menu presents the following options:
+
 ![App Screenshot](https://i.ibb.co/rmRZnfM/Screenshot-2023-01-22-at-19-16-42.png)
+
 Simply enter the relevant letter, followed by ENTER to access your desired function.
 
 - (V) View All Stock
@@ -45,6 +47,7 @@ Simply enter the relevant letter, followed by ENTER to access your desired funct
 
 ### (V) View All Stock
 Tabulates the inventory.txt data in an easy to read format:
+
 ![App Screenshot](https://i.ibb.co/QnVRRsN/Screenshot-2023-01-22-at-19-32-45.png)
 
 ### (A) Add New Shoes

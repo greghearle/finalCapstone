@@ -11,9 +11,9 @@ Users are able to:
 - Discount shoes that are in high supply
 
 ## Table of Contents
-1) [Installation](#-installation)
-2) [Usage](#-usage)
-3) [Credits](#-credits)
+1) [Installation](#installation)
+2) [Usage](#usage)
+3) [Credits](#credits)
 
 ## Installation
 To install the programme, simply run inventory.py from a local directory. Please note that inventory.txt must also be in the same directory for the programme to run properly.
